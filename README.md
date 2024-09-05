@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently working on a speeduino
+I'm currently learning robotics II in school and EDA & CAD design in my own time.
+Ask me about anything.
 <!--
 **Donald-a11y/Donald-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
