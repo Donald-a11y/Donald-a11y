@@ -1,10 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm currently working on a speeduino. 
+### I'm currently working on a speeduino. 
 
-I'm currently learning robotics II in school and EDA & CAD in my own time.
+### I'm currently learning robotics II in school and EDA & CAD in my own time.
 
 Ask me about anything.
+![":3"](![image](https://github.com/user-attachments/assets/a442ca03-132d-4bc5-9277-0b278457fc04)
+
 <!--
 **Donald-a11y/Donald-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
