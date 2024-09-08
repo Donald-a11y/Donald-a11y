@@ -1,10 +1,5 @@
-# Hi there 👋
 
-### I'm currently working on a speeduino. 
-
-### I'm currently learning robotics II in school and EDA & CAD in my own time.
-
-Ask me about anything.
+<sup> <sub> man idk what i'm doing
 ![image](https://github.com/user-attachments/assets/a442ca03-132d-4bc5-9277-0b278457fc04)
 
 <!--
