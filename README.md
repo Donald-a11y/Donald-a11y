@@ -1,6 +1,7 @@
 
 <sup> <sub> man idk what i'm doing
 ![image](https://github.com/user-attachments/assets/a442ca03-132d-4bc5-9277-0b278457fc04)
+![](https://i.pinimg.com/originals/c1/8e/e0/c18ee03e0378140857d5786e1611780a.gif)
 
 <!--
 **Donald-a11y/Donald-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
