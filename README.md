@@ -1,5 +1,5 @@
-#Hi
-##Hi
+## Hi
+Hi
 <sup> <sub> man idk what i'm doing
 
 ![](https://i.pinimg.com/originals/c1/8e/e0/c18ee03e0378140857d5786e1611780a.gif)
